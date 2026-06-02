@@ -9,4 +9,4 @@ Used packs are :
 * [Game Icons](https://kenney.nl/assets/game-icons)
 * [Puzzle Pack 2](https://kenney.nl/assets/puzzle-pack-2)
 
-The Pascal units have been generated from SVG files with [this program](https://github.com/DeveloppeurPascal/one-shot-tools/SVGFromFolderToStringArrayInUnit).
+The Pascal units have been generated from SVG files with [this program](http://svgfolder2delphiunit.olfsoftware.fr).
